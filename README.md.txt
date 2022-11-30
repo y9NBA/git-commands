@@ -9,4 +9,4 @@
 
 ## Описание файлов
 
-Файл README для ветки first-branch
+Обновлённый файл README для ветки second-branch
